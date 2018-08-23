@@ -22,7 +22,7 @@
 		</div>
 		<div style="padding-top: 20pt;">
 			<h1>Resultado Rápido</h1>
-			<p>Sistema de Apoio das Avaliações Bimestrais da EESJ</p>
+			<p>Sistema de Apoio para as Avaliações Bimestrais da EESJ</p>
 		</div>
 		</div>
 	</header>
@@ -34,13 +34,13 @@
 				<a class="nav-link" href="/resultadorapido">Início</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="./estudante.html">Estudante</a>
+				<a class="nav-link" href="./estudante">Estudante</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="./docente.html">Docente</a>
+				<a class="nav-link" href="./docente">Docente</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="./admin.html">Administração</a>
+				<a class="nav-link" href="./admin">Administração</a>
 			</li>
 		</ul>
 	</nav>
